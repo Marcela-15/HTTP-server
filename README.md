@@ -8,10 +8,10 @@ To use this project, simply download the files and open index.html in a web brow
 ## Usage
 The index.html file contains a basic HTML page with several common tags, including:
 
-<html> and <body> tags to define the structure of the page
-<h1> and <p> tags for headings and paragraphs
-<img> tags to display images
-<a> tags for links
+html> and <body> tags to define the structure of the page
+h1> and <p> tags for headings and paragraphs
+img> tags to display images
+a> tags for links
 Feel free to modify the HTML file to experiment with different tags and page layouts.
 
 ## Contributing
